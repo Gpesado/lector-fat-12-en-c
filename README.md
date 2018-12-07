@@ -58,7 +58,7 @@ atributo.
 primer cluster del disco.
 
 ## leertxt.c :
-Esta clase tiene como función leer el archivo HOLA.txt, el cual es el único archivo no
+Este archivo tiene como función leer el archivo HOLA.txt, el cual es el único archivo no
 borrado con contenido en el filesystem.
 Para esto, se utiliza casi el mismo código utilizado en leer root, ya que se necesita la información
 del MBR para conocer el tamaño de los clusters y llegar hasta el comienzo del primer cluster
